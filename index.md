@@ -1,6 +1,6 @@
 # MyAmble
 
-[Welcome message to new MyAmble users]
+Welcome to the MyAmble transportation study!
 
 ## Getting Started
 
