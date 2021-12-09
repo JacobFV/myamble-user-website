@@ -12,8 +12,18 @@ Welcome to the MyAmble transportation study!
 
 Here are a few issue you might face, and how to resolve them:
 
-### Messages are not being sent / recieved
-
 ### My app keeps crashing
 
-### TODO: Add more help here
+Try force quitting your app:
+
+![](/assets/myamble_erros-close-app.drawio.png)
+
+If that doesn't work, try clearing all storage and cache for the app:
+
+![](/assets/myamble_erros-clear-storage.drawio.png)
+
+If that doesn't work, try uninstalling and reinstalling the app:
+
+### Messages are delayed or are not being sent or received
+
+Please inform your social worker of the issue using email or another communication channel. We apologize for any inconveniences.
