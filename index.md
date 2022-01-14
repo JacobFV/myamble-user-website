@@ -4,7 +4,9 @@ Welcome to the MyAmble transportation study!
 
 ## Getting Started
 
-1. Download and install the app from [this link](https://github.com/myamble/myamble-user-website/releases/download/v2.3.3/app-release.apk).
+1. _If you're using an Android_, Download and install the app from [this link](https://github.com/myamble/myamble-user-website/releases/download/v2.3.4/app-release.apk).
+
+   _If you're using iOS_, ~~Download and install the app from [this link]().~~ Coming soon.
 
 2. Open MyAmble and sign in. You may be asked to enable location services.
 
