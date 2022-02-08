@@ -12,7 +12,15 @@ Welcome to the MyAmble transportation study!
 
 ## Getting Help
 
-Here are a few issue you might face, and how to resolve them:
+Here are a few issues you might face, and how to resolve them:
+
+### My android says it won't install apps from unknown sources
+
+Please try following one of these guides:
+
+- https://www.samsung.com/us/support/troubleshooting/TSG01001353/
+- https://www.verizon.com/support/knowledge-base-222186/
+- https://android.gadgethacks.com/how-to/android-101-sideload-apps-by-enabling-unknown-sources-install-unknown-apps-0161947/ 
 
 ### My app keeps crashing
 
@@ -24,8 +32,12 @@ If that doesn't work, try clearing all storage and cache for the app:
 
 ![](/assets/myamble_erros-clear-storage.drawio.png)
 
-If that doesn't work, try uninstalling and reinstalling the app:
+If that doesn't work, try uninstalling and reinstalling the app
 
 ### Messages are delayed or are not being sent or received
 
 Please inform your social worker of the issue using email or another communication channel. We apologize for any inconveniences.
+
+### I have another issue
+
+Don't hesitate to contact us for help.
