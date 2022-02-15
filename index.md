@@ -4,7 +4,7 @@ Welcome to the MyAmble transportation study!
 
 ## Getting Started
 
-1. _If you're using an Android_, Download and install the app from [this link](https://github.com/myamble/myamble-user-website/releases/download/v2.3.4/app-release.apk).
+1. _If you're using an Android_, Download and install the app from [this link](https://github.com/myamble/myamble-user-website/releases/download/v2.3.4.1/app-release.apk).
 
    _If you're using iOS_, ~~Download and install the app from [this link]().~~ Coming soon.
 
@@ -18,9 +18,9 @@ Here are a few issues you might face, and how to resolve them:
 
 Please try following one of these guides:
 
-- https://www.samsung.com/us/support/troubleshooting/TSG01001353/
-- https://www.verizon.com/support/knowledge-base-222186/
-- https://android.gadgethacks.com/how-to/android-101-sideload-apps-by-enabling-unknown-sources-install-unknown-apps-0161947/ 
+- <https://www.samsung.com/us/support/troubleshooting/TSG01001353/>
+- <https://www.verizon.com/support/knowledge-base-222186/>
+- <https://android.gadgethacks.com/how-to/android-101-sideload-apps-by-enabling-unknown-sources-install-unknown-apps-0161947/>
 
 ### My app keeps crashing
 
